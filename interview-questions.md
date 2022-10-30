@@ -40,20 +40,20 @@ Researched answer: a string is a collection of characters. an array holds a coll
 
 5. Give a brief description of proper pair programming techniques. What are the roles of each person?
 
-Your answer:
+Your answer: having one person "Drive" and having one or more people "Navigate".
 
-Researched answer:
+Researched answer: Two people working together on one code source in order to produce one program.
 
 ## Looking Ahead: Terms for Next Week
 
 Research and define the following terms to the best of your ability.
 
-1. Higher Order Functions:
+1. Higher Order Functions: A built in method in javascript that uses a function as an argument.
 
-2. Jest:
+2. Jest: A testing framwork that is made up of a collection of dependencies, which in 2016 Facebook "yarn" in order to manage all the dependency files.
 
-3. Objects:
+3. Objects: A collection of, several variables and functions, also called properties and methods when they are inside objects.
 
-4. Method:
+4. Method: A function that belongs to an object.
 
-5. Classes:
+5. Classes: A particular type of function that contains data and behavior, within its own scope.
