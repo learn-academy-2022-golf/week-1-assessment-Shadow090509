@@ -39,16 +39,16 @@ console.log(languages[index]);
 
 // --------------------4) What will this log?
 
-const weekendDays = ["saturday", "sunday"];
-//console.log(weekendDays.toUpperCase());
+const weekendDays = "saturday sunday";
+console.log(weekendDays.toUpperCase());
 
 // a) Your answer: SATURDAY SUNDAY
-// b) Verify and explain: error messege saying that .toUpperCase() is not a function. I'm not sure why this is
+// b) Verify and explain: error messege saying that .toUpperCase() is not a function. upon further research, the command .toUpperCase is intended for strings and not realley arrays.
 
 // --------------------5) What will this log?
 
 const dataTypes = ["number", "string", "Boolean", "undefined"];
 console.log(typeof dataTypes.length);
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer: 4
+// b) Verify and explain: "number" It is expressing the typeof values in this array is in number form.
